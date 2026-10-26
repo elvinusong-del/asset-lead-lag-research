@@ -1,0 +1,12 @@
+# Raw vendor price data (not redistributed)
+data/
+
+# Regenerable intermediate outputs (price-derived, large)
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+
+# Research plan (kept private)
+*계획서.md
